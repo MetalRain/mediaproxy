@@ -30,3 +30,5 @@ Deploy to kubernetes cluster
 
 - [Go](https://golang.org/)
 - [Iris Framework](https://github.com/kataras/iris)
+- [Redis client for Golang](https://github.com/go-redis/redis)
+
